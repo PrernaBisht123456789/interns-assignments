@@ -1,5 +1,6 @@
 # ignitershub-intern-assignment
 Submitted by: Prerna Bisht
+
 This repository contains solutions to four programming challenges implemented using Node.js.
 ##  Tech Stack
 - Node.js
@@ -102,6 +103,7 @@ Enter the target element: 7
 
 Output:
 Element 7 is found at index 3
+
 
 
 
